@@ -4,6 +4,10 @@
 ### Abstract:
 We built an app which displays a randomized palette of five colors. This app allows you to save you're favorite palettes to a saved palettes collection and delete palettes from you're saved collection as needed.
 
+##### Run via web:
+[Click Here to Launch](https://sulton88mehron90.github.io/coloRandom-Team-Project/)
+
+##### Run local:
 ### Installation Instructions:
 If someone chooses to run this app. Plese follow the steps below:
  - Fork this project to your own Github account
